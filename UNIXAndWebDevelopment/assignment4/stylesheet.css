@@ -1,0 +1,29 @@
+
+/*Christopher Tomsyck Assignment3*/
+
+th{
+text-align:center;
+}
+
+table {
+border: 5px solid #000;
+background-color:#CCCCCC;
+}
+
+table table { /* keep nested tables from having borders */
+border-width: 0px;
+}
+
+form {
+border:5px solid #000;
+background-color:#CCCCCC;
+width:250px;
+}
+
+input {
+	float:right;
+}
+
+select{
+	float:right;
+}
